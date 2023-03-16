@@ -1,6 +1,6 @@
 # TheHunted
 Project วิชา Object-Oriented Programming
-<h1>The Hunted</h1>
+
 <b>Graphic Designer:</b><br>
 <ul>
   <li>Thiraphat Jankaew (Pan)</li>
